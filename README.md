@@ -1,1 +1,2 @@
-Mlops pipeline with titanic Dataset
+End to End Mlops pipeline with titanic Dataset
+
